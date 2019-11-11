@@ -1,0 +1,8 @@
+Origin: Satan
+Label: Satanic Repo
+Suite: stable
+Version: 6.6.6
+Codename: satanicdaemon
+Architectures: iphoneos-arm
+Components: main
+Description: SatanicD's Cydia Repo

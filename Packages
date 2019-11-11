@@ -1,0 +1,16 @@
+Package: com.satanic.cysploit
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Satan
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: /Volumes/backups/repo/source/cysploit/pkg/com.satanic.cysploit_0.0.1-1+debug_iphoneos-arm.deb
+Size: 1704
+MD5sum: 2157b18d2de775fc8e265c3d8adeca7c
+SHA1: 8230cb77879e59635ff7c624648494e18b3d0117
+SHA256: a90107de81cb5da8ba50f4aa315f255a721d293d77fc27b6c424857b6d250115
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Satan
+Name: cysploit
+
